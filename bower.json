@@ -1,0 +1,20 @@
+{
+  "name": "angular-forcedirected",
+  "main": "angular-forcedirected.js",
+  "homepage": "https://github.com/tenzinngodup/angular-forcedirected",
+  "authors": [
+    "tngodup <tenzin.ngodup.rinchentsang@gmail.com>"
+  ],
+  "description": "Angular directive for force directed graph",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "graph"
+  ],
+  "license": "MIT"
+}
